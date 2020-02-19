@@ -1,0 +1,27 @@
+.background-evening {
+	background-image: url(img/evening.png);
+}
+
+.background-night {
+	background-image: url(img/night.png);
+}
+
+.background-morning {
+	background-image: url(img/morning.png);
+}
+
+.background-afternoon {
+	background-image: url(img/afternoon.png);
+}
+
+body {
+    width: 100%;
+    margin: 0; 
+    font-size: 30px;
+    text-align: center;
+    color: white;
+}
+
+h1 {
+	padding-top: 250px;
+}
